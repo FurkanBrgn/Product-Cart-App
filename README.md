@@ -1,3 +1,7 @@
+# Product Cart App
+
+Product Cart App is an application where you can add and update products in the desired category and add and delete products in the desired category to the cart. It was developed with React. And bootstrap is used in the interface. The data is stored using a local json server. In addition, Redux is used for data transitions between components.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
